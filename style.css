@@ -1,0 +1,96 @@
+.knopka{
+    width: 150px;
+    height: 150px;
+    background-color: lightgreen;
+    border: 5px solid black; 
+    border-radius: 15px;
+    padding: 5px;
+    position: absolute;
+    left: 900px;
+    top:150px;
+    cursor: pointer;
+}
+.knopkaaj{
+    width: 100px;
+    height: 60px;
+    padding: 5px;
+    position: absolute;
+    left: 870px;
+    top:310px;
+    background-color: cyan;
+    border: 5px solid red; 
+    border-radius: 25px;
+    cursor: pointer;
+}
+.knopkadzax{
+    width: 100px;
+    height: 60px;
+    padding: 5px;
+    position: absolute;
+    left: 1000px;
+    top:310px;
+    background-color: cyan;
+    border: 5px solid red; 
+    border-radius: 25px;
+    cursor: pointer;
+}
+.tank1{
+    width: 130px;
+    height: 130px;
+}
+.tank2{
+    width: 40px;
+    height: 40px;
+}
+.pause{
+   width: 150px;
+    height: 150px;
+    background-color: lightgreen;
+    border: 5px solid black; 
+    border-radius: 15px;
+    padding: 5px;
+    position: absolute;
+    left: 900px;
+    top:400px;
+    cursor: pointer;
+    text-align: center;
+}
+.pause img{
+    width: 130px;
+    height: 130px;
+}
+.arag{
+     width: 120px;
+    height: 60px;
+    background-color: lightgreen;
+    border: 5px solid black; 
+    border-radius: 15px;
+    padding: 5px;
+    position: absolute;
+    left: 1000px;
+    top:50px;
+        cursor: pointer;
+}
+.arag img{
+    width: 80px;
+    height: 40px;
+}
+.dandax{
+    width: 120px;
+    height: 60px;
+    background-color: lightgreen;
+    border: 5px solid black; 
+    border-radius: 15px;
+    padding: 5px;
+    position: absolute;
+    left: 850px;
+    top:50px;
+        cursor: pointer;
+}
+.dandax  img{
+    width: 80px;
+    height: 40px;
+}
+body{
+    background-color: lightblue;
+}
